@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AmberFalbo/basic_server/issues"
   },
-  "homepage": "https://github.com/AmberFalbo/basic_server#readme"
+  "homepage": "https://github.com/AmberFalbo/basic_server#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
 }
